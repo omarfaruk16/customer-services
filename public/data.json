@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to login with correct credentials",
+    "customer": "Omar Faruk",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "1/2/2024"
+  },
+  {
+    "id": 2,
+    "title": "Page Loading Slow",
+    "description": "Dashboard page takes too long to load",
+    "customer": "Rahim Uddin",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2/2/2024"
+  },
+  {
+    "id": 3,
+    "title": "Password Reset Failed",
+    "description": "Reset password email not received",
+    "customer": "Karim Ahmed",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "3/2/2024"
+  },
+  {
+    "id": 4,
+    "title": "UI Alignment Issue",
+    "description": "Buttons overlapping on mobile view",
+    "customer": "Nusrat Jahan",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "4/2/2024"
+  },
+  {
+    "id": 5,
+    "title": "Payment Gateway Error",
+    "description": "Payment fails during checkout",
+    "customer": "Tanvir Hasan",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "5/2/2024"
+  },
+  {
+    "id": 6,
+    "title": "Profile Update Not Saving",
+    "description": "User profile changes are not saved",
+    "customer": "Ayesha Rahman",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "6/2/2024"
+  },
+  {
+    "id": 7,
+    "title": "Email Notification Issue",
+    "description": "Notifications not sent after ticket update",
+    "customer": "Sabbir Hossain",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "7/2/2024"
+  },
+  {
+    "id": 8,
+    "title": "Access Denied Error",
+    "description": "User receives access denied on reports page",
+    "customer": "Farzana Akter",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "8/2/2024"
+  },
+  {
+    "id": 9,
+    "title": "Search Not Working",
+    "description": "Search returns no results even for valid data",
+    "customer": "Imran Khan",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "9/2/2024"
+  },
+  {
+    "id": 10,
+    "title": "File Upload Failed",
+    "description": "Users cannot upload PDF files",
+    "customer": "Mehedi Hasan",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "10/2/2024"
+  },
+  {
+    "id": 11,
+    "title": "Logout Automatically",
+    "description": "Session expires too quickly",
+    "customer": "Shakib Al Hasan",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "11/2/2024"
+  },
+  {
+    "id": 12,
+    "title": "Broken Link",
+    "description": "Help page link returns 404 error",
+    "customer": "Sumaiya Islam",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "12/2/2024"
+  }
+]
